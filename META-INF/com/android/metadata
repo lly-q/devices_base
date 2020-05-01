@@ -1,0 +1,14 @@
+ota-id=OnePlus5Hydrogen_23.K.48_048_2002171234
+ota-property-files=metadata:69:462         
+ota-required-cache=0
+ota-type=BLOCK
+ota_version=OnePlus5Hydrogen_23.K.48_048_2002171234
+patch_type=1
+post-build=OnePlus/OnePlus5/OnePlus5:9/PKQ1.180716.001/2002171216:user/release-keys
+post-build-incremental=2002171216
+post-sdk-level=28
+post-security-patch-level=2020-02-01
+post-timestamp=1581913937
+pre-device=OnePlus5
+version_name=OnePlus5Hydrogen_23_2002171234
+wipe=0
