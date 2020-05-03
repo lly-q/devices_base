@@ -54,8 +54,7 @@ RESOLUTION := 1080x1920
 # The default value is Bluetooth.
 # You can configure the apk name in the vendor/system/app or vendor/system/priv-app directory.
 #-----------------------------------------------------------------------------
-vendor_saved_apps := Bluetooth BluetoothMidiService BookmarkProvider EasterEgg ExtShared HTMLViewer KeyChain PacProcessor PrintRecommendationService PrintSpooler Stk WAPPushManager WallpaperBackup BackupRestoreConfirmation BlockedNumberProvider CellBroadcastReceiver ExternalStorageProvider FusedLocation InputDevices ManagedProvisioning MtpDocumentsProvider ProxyHandler SharedStorageBackup Shell StatementService UserDictionaryProvider
-
+vendor_saved_apps := AntHalService Bluetooth BluetoothMidiService BookmarkProvider CompanionDeviceManager EasterEgg ExtShared HTMLViewer KeyChain PacProcessor PrintRecommendationService PrintSpooler Stk WAPPushManager NexusWallpapersStubPrebuilt2018 SimAppDialog Traceur CalendarProvider CallLogBackup CarrierConfig CellBroadcastReceiver CNEService ConfigUpdater  dpmserviceapp ExternalStorageProvider FusedLocation ims InputDevices ManagedProvisioning MediaProvider ProxyHandler qcrilmsgtunnel SettingsProvider SharedStorageBackup Shell StatementService DocumentsUI DownloadProviderUi BlockedNumberProvider WfdService VpnDialogs Shell Tag CaptivePortalLogin Turbo StatementService
 ##############################################################################
 # The value decides which vendor apk you want to modify.
 # The modify jar will build from the directory named the vendor apk name in the current project root directory.
